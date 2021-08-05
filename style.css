@@ -14,7 +14,10 @@ body{
 }
 .heading{
     text-align: center;
-    margin: 1em;;
+    font-size: 2.5em;
+    font-weight: lighter;
+    margin: 1em;
+    font-family: fell, Georgia, Cambria, "Times New Roman", Times, serif;
 }
 pre{
     opacity: 70%;
@@ -27,11 +30,24 @@ code{
     margin-bottom: 1.5rem;
 }
 .language-java{
-    background-color: whitesmoke !important;
+    background-color: rgb(242, 242, 242) !important;
 }
 h3{
     font-weight: bolder !important;
+    font-style: italic;
     margin: 10px 0px !important;
+}
+em{
+    font-weight: bold;
+    font-family: 'Cedarville Cursive', cursive;
+}
+i{
+    font-weight: bold;
+    font-family: cursive;
+}
+b{
+    font-family: cursive;
+    font-weight: lighter;
 }
 .resp-iframe-1{
     position: absolute;
