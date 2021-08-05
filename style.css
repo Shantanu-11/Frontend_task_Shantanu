@@ -45,10 +45,7 @@ i{
     font-weight: bold;
     font-family: cursive;
 }
-b{
-    font-family: cursive;
-    font-weight: lighter;
-}
+
 .resp-iframe-1{
     position: absolute;
     top: 10%;
